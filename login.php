@@ -11,15 +11,11 @@ body {
 	align-items: center;
 	justify-content: center;
 	display: flex;
-	background-image: url("../IMAGES/PSHS.jpeg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
 }
 
         form {
-            width: 90%; /* Adjusted width for smaller screens */
-            max-width: 500px; /* Added max-width for larger screens */
+            width: 90%; 
+            max-width: 500px;
             border: 5px solid #ccc;
             padding: 30px;
             background: #fff;
@@ -32,7 +28,7 @@ body {
         input {
 	background: rgba(225, 225, 225, 0.5);
 	display: block;
-	width: 100%; /* Adjusted width for smaller screens */
+	width: 100%; 
 	padding: 10px;
 	margin: 10px auto;
 	border-radius: 10px;
